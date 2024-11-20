@@ -1,12 +1,12 @@
 package main
 
 import (
-	"github.com/mehakt99/core/config"
-	"github.com/mehakt99/core/logger"
-	"github.com/mehakt99/product-service/constants"
-	"github.com/mehakt99/product-service/core/database"
-	"github.com/mehakt99/product-service/core/handler"
-	"github.com/mehakt99/product-service/models"
+	"github.com/mehakt99/ss-go-core/config"
+	"github.com/mehakt99/ss-go-core/logger"
+	"github.com/mehakt99/ss-go-product-service/constants"
+	"github.com/mehakt99/ss-go-product-service/core/database"
+	"github.com/mehakt99/ss-go-product-service/core/handler"
+	"github.com/mehakt99/ss-go-product-service/models"
 )
 
 func main() {

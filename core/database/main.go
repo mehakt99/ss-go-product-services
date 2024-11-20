@@ -1,6 +1,6 @@
 package database
 
-import "github.com/mehakt99/core/storage"
+import "github.com/mehakt99/ss-go-core/storage"
 
 type RelationalDatabase struct {
 	Instance *storage.RelationalDB
